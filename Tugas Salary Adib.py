@@ -6,7 +6,7 @@ def main():
     nama_karyawan = input("Nama karyawan: ")
     gaji_pokok = float(input("Masukkan gaji pokok: "))
     jam_kerja = int(input("Masukkan Jam Kerja Harian: "))
-    jumlah_hari_kerja_per_minggu = int(input("Masukkan Jam Kerja Mingguan: "))
+    jumlah_hari_kerja_per_minggu = int(input("Masukkan hari kerja mingguan: "))
 
     print("\nNama karyawan:", nama_karyawan)
     print("Gaji pokok:", "Rp.",gaji_pokok)
